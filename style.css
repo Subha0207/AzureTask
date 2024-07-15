@@ -15,14 +15,14 @@ body {
 }
 
 .container {
-    height: 85%;
+    height: auto;
     text-align: center;
     background-color: #fff;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     width: 90%;
-    max-width: 30%;
+    max-width: 45%;
   
 }
 
